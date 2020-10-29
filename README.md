@@ -8,3 +8,5 @@ and the third it typed. The word will be spoken to them when they click the spea
 
 Extending this game:
 This game can be extended by changing the words used and the audio files. These can be found in data/dictionary.js. The audio can be found in the sounds folder. 
+
+All files contained within this repository are protected under copyright. They are not intended to be copied for commercial or non-commercial purposes
