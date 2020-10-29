@@ -1,0 +1,6 @@
+-Added UI JavaScript used for exercises
+-Timer example commented in
+
+08/08/18
+Prepared data files and main JavaScript files.
+--Dictionary will be added to and screens will be designed.
